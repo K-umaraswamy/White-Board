@@ -25,7 +25,7 @@ It is a simple digital white board built using HTML, CSS and Javascript. It has 
 - Download or clone the repository
 
 ```
-git clone [https://github.com/K-umaraswamy/White-Board.git]
+git clone https://github.com/K-umaraswamy/White-Board.git
 ```
 
 - Go to the directory
